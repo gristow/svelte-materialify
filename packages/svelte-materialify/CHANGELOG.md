@@ -1,3 +1,23 @@
+## [0.3.7-num-field](https://github.com/TheComputerM/svelte-materialify/compare/v0.3.10...v0.3.7-num-field) (2025-12-17)
+
+
+### Bug Fixes
+
+* **docs:** Include NumberField in doc routes ([5d2c7dc](https://github.com/TheComputerM/svelte-materialify/commit/5d2c7dc8684c0f24a556c04f0cfc0a193a211ff8))
+* **table.d.ts:** prop descriptions ([fab6c29](https://github.com/TheComputerM/svelte-materialify/commit/fab6c2916e5e6d2638527224bcc39228b4f73079))
+
+
+### Features
+
+* **definitions:** Use relative imports consistently ([2a4196e](https://github.com/TheComputerM/svelte-materialify/commit/2a4196e198e815dd4cd604f9639038ce2c1aaab4))
+* **docs:** Documentation for NumberField component ([2d8fa05](https://github.com/TheComputerM/svelte-materialify/commit/2d8fa0570a4375bc8b5f92c59518f33bce80520d))
+* **docs/NumberField:** Move value to subheading of usage ([e6af23e](https://github.com/TheComputerM/svelte-materialify/commit/e6af23e3b3cc239e0e7161a0f5a43a92f8c47035))
+* **NumberField:** Add sveltedoc annotations to improve API refs ([efe80d4](https://github.com/TheComputerM/svelte-materialify/commit/efe80d4046c0f5aea0841d822327491aa910dc30))
+* **NumberField:** New component ([7cec722](https://github.com/TheComputerM/svelte-materialify/commit/7cec7228d9a5439ba16c31ad67525716bd78d06e))
+* **Table.d.ts:** New definition file ([e091f32](https://github.com/TheComputerM/svelte-materialify/commit/e091f3216971a0a876790e4287ae369bb9a94cc0))
+
+
+
 ## [0.3.7](https://github.com/TheComputerM/svelte-materialify/compare/v0.3.6...v0.3.7) (2021-03-18)
 
 ### Bug Fixes
